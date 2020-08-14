@@ -191,7 +191,6 @@ section{
 }
 
 .rit button:hover{
-  background: linear-gradient(yellow 80%,orange 20%);
   border-top:2px solid orange;
   border-bottom:2px solid yellow;
   border-left:2px solid orange;
