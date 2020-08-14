@@ -93,6 +93,8 @@ section{
 
 .po{
   width: 94%;
+  margin-top: 50px;
+  margin-bottom: 50px;
   margin-left: 3%;
   border-left: 4px solid orange;
   border-right: 4px solid orange;
@@ -126,6 +128,10 @@ section{
 }
 
 .rit input:hover{
+  border-top:2px solid orange;
+  border-bottom:2px solid yellow;
+  border-left:2px solid orange;
+  border-right:2px solid yellow;
   box-shadow: 0 0 10px orange;
 }
 
@@ -142,6 +148,10 @@ section{
 }
 
 .rit select:hover{
+  border-top:2px solid orange;
+  border-bottom:2px solid yellow;
+  border-left:2px solid orange;
+  border-right:2px solid yellow;
   box-shadow: 0 0 10px orange;
 }
 
@@ -159,6 +169,10 @@ section{
 }
 
 .rit textarea:hover{
+  border-top:2px solid orange;
+  border-bottom:2px solid yellow;
+  border-left:2px solid orange;
+  border-right:2px solid yellow;
   box-shadow: 0 0 10px orange;
 }
 
@@ -166,6 +180,7 @@ section{
   width: 90%;
   height: 40px;
   margin-left: 5%;
+  margin-top: 15px;
   margin-bottom: 50px;
   color: white;
   background: linear-gradient(yellow 20%,orange 80%);
