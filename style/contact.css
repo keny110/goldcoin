@@ -140,6 +140,7 @@ section{
 .rit select{
   background: #1e1e1e;
   width: 90%;
+  height: 40px;
   margin-left: 5%;
   color: orange;
   border-top:2px solid yellow;
