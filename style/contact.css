@@ -125,6 +125,7 @@ section{
   border-left:2px solid yellow;
   border-right:2px solid orange;
   border-radius: 15px;
+  font-size: 20px;
 }
 
 .rit input:hover{
@@ -166,6 +167,7 @@ section{
   border-left:2px solid yellow;
   border-right:2px solid orange;
   border-radius: 15px;
+  font-size: 20px;
 }
 
 .rit textarea:hover{
@@ -188,6 +190,7 @@ section{
   border-bottom:2px solid orange;
   border-left:2px solid yellow;
   border-right:2px solid orange;
+  border-radius: 40px;
 }
 
 .rit button:hover{
