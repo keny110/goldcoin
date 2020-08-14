@@ -91,6 +91,94 @@ section{
   display: table;
 }
 
+.po{
+  width: 94%;
+  margin-left: 3%;
+  border-left: 4px solid orange;
+  border-right: 4px solid orange;
+  border-radius: 15px;
+}
+
+.rit{
+  width: 100%;
+}
+
+.rit label{
+  margin-left: 2%;
+  color: white;
+  font-size: 20px;
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+
+.rit input{
+  width: 90%;
+  height: 40px;
+  color: orange;
+  margin-left: 2%;
+  border-top:2px solid yellow;
+  border-bottom:2px solid orange;
+  border-left:2px solid yellow;
+  border-right:2px solid orange;
+  border-radius: 15px;
+}
+
+.rit input:hover{
+  box-shadow: 0 0 10px orange;
+}
+
+.rit select{
+  width: 90%;
+  margin-left: 2%;
+  color: orange;
+  border-top:2px solid yellow;
+  border-bottom:2px solid orange;
+  border-left:2px solid yellow;
+  border-right:2px solid orange;
+  border-radius: 15px;
+}
+
+.rit select:hover{
+  box-shadow: 0 0 10px orange;
+}
+
+.rit textarea{
+  width: 90%;
+  height: 100px;
+  color: orange;
+  margin-left: 2%;
+  border-top:2px solid yellow;
+  border-bottom:2px solid orange;
+  border-left:2px solid yellow;
+  border-right:2px solid orange;
+  border-radius: 15px;
+}
+
+.rit textarea:hover{
+  box-shadow: 0 0 10px orange;
+}
+
+.rit button{
+  width: 90%;
+  height: 40px;
+  color: white;
+  background: linear-gradient(yellow 20%,orange 80%);
+  border-top:2px solid yellow;
+  border-bottom:2px solid orange;
+  border-left:2px solid yellow;
+  border-right:2px solid orange;
+}
+
+.rit button:hover{
+  background: linear-gradient(yellow 80%,orange 20%);
+  border-top:2px solid orange;
+  border-bottom:2px solid yellow;
+  border-left:2px solid orange;
+  border-right:2px solid yellow;
+  box-shadow: 0 0 10px orange;
+}
+
+
 .box{
   width: 30%;
   float: left;
