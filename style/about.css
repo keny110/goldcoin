@@ -98,6 +98,8 @@ section{
 }
 
 .rit:hover{
+  width: 96%;
+  margin-left: 2%;
   border-left: 4px solid orange;
   border-right: 4px solid orange;
   border-top: 2px solid yellow;
