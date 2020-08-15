@@ -97,6 +97,14 @@ section{
   border-radius: 10px;
 }
 
+.rit:hover{
+  border-left: 4px solid orange;
+  border-right: 4px solid orange;
+  border-top: 2px solid yellow;
+  border-bottom: 2px solid yellow;
+  box-shadow: 0 0 10px orange;
+}
+
 .rit::after{
   content: '';
   clear: both;
