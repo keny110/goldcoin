@@ -92,6 +92,8 @@ section{
   margin-bottom: 2%;
   border-left: 4px solid yellow;
   border-right: 4px solid yellow;
+  border-top: 2px solid orange;
+  border-bottom: 2px solid orange;
   border-radius: 10px;
 }
 
