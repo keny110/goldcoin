@@ -122,3 +122,10 @@ section{
   text-align: center;
   font-size: 20px;
 }
+
+.inbox li{
+  list-style: none;
+  color: orange;
+  margin-top: 10px;
+  margin-bottom: 5px;
+}
