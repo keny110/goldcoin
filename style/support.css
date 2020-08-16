@@ -96,6 +96,12 @@ section{
   float: left;
 }
 
+.box img{
+  width: 95%;
+  margin-top: 20px;
+  margin-bottom: 15px;
+}
+
 .inbox{
   width: 65%;
   float: right;
