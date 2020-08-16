@@ -151,6 +151,7 @@ section{
   border-left:2px solid yellow;
   border-right:2px solid orange;
   border-radius: 15px;
+  font-size: 20px;
 }
 
 .rit select:hover{
