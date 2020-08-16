@@ -90,3 +90,13 @@ section{
   clear: both;
   display: table;
 }
+
+.box{
+  width: 35%;
+  float: left;
+}
+
+.inbox{
+  width: 65%;
+  float: right;
+}
