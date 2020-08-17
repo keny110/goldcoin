@@ -110,14 +110,14 @@ section{
 }
 
 .inbox h2{
-  color: yellow;
+  color: grey;
   text-align: center;
   margin-top: 20px;
   margin-bottom: 20px;
 }
 
 .inbox p{
-  color: yellow;
+  color: grey;
   text-align: center;
   margin-top: 10px;
   margin-bottom: 10px;
