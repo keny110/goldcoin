@@ -85,29 +85,7 @@ section{
   width: 100%;
 }
 
-.rit{
-  width: 94%;
-  margin-left: 3%;
-  margin-top: 3%;
-  margin-bottom: 2%;
-  border-left: 4px solid yellow;
-  border-right: 4px solid yellow;
-  border-top: 2px solid orange;
-  border-bottom: 2px solid orange;
-  border-radius: 10px;
-}
-
-.rit:hover{
-  width: 96%;
-  margin-left: 2%;
-  border-left: 4px solid orange;
-  border-right: 4px solid orange;
-  border-top: 2px solid yellow;
-  border-bottom: 2px solid yellow;
-  box-shadow: 0 0 10px orange;
-}
-
-.rit::after{
+.contanier::after{
   content: '';
   clear: both;
   display: table;
